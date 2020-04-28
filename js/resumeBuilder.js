@@ -18,25 +18,25 @@ var bio = {
     "location": "Toronto, Canada"
   },
   "welcomeMessage": "Hi everyone, Checkout my resume. I've experience with HTML5 semantic tags, CSS3, JavaScript, Bootstrap, Foundation 5, Git of course, Grunt and much more. If you find this interesting and would like to hire me, please contact me.",
-  "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Foundation 5", "jQuery", "Git", "Grunt"],
+  "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "jQuery", "Git", "Grunt", "Java", "Spring", "Hadoop",],
   "bioPic": "images/portfolio.jpg"
 }
 
 var work = {
   "jobs": [
         {
-          "employer": "GE Digital Energy",
-          "title": "Assembly Technician",
+          "employer": "Company Name 1",
+          "title": "SDE",
           "dates": "06/2016 - 09/2016",
           "location": "Markham, Ontario, Canada",
-          "description": "Testing of electronics panels and circuit boards, Assembly of electroincs products on the circuit boards."
+          "description": "Developed web pages and web applications using Java, Spring, NodeJS, Angular, jQuery, etc. Also worked on latest Hadoop technologies."
         },
         {
-          "employer": "Elecon Engineering Company",
+          "employer": "Company 2",
           "title": "Electrical Engineer",
           "dates": "05/2007 - 01/2016",
-          "location": "Anand, Gujarat, India",
-          "description": "Troubleshooting and installation of electrical/electronics products and machines for retrofitting as well."
+          "location": "Ahmedabad, Gujarat, India",
+          "description": "Worked on latest web technologies and developed web applications using java. Recently been working on Hadoop along with Microsoft Azure."
         }
   ]
 };
